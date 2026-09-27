@@ -1,0 +1,6 @@
+1 generación - 20 segundos 
+100 generaciones - 21 segundos
+1000 generaciones -2minutos
+10000 generaciones - 17 minutos
+25000 generqciones - 46 minutos
+50000 generaciones - 1 hora con 30 minutos 
